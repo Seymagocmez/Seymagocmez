@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋
-<h3 align="center"> I'm a dedicated software developer with a passion for creating innovative and impactful projects. On my GitHub page, you'll find a variety of repositories showcasing my work in Python, JavaScript, Flutter, and more. I have a particular interest in Python and Flutter. Feel free to explore my repositories, where you'll find everything from web development projects to open-source contributions. I'm always excited to collaborate and learn from fellow developers, so don't hesitate to reach out. Happy coding!💻</h3>
+<h3 align="center"> I'm a software developer with a passion for creating innovative and impactful projects. On my GitHub page, you'll find a variety of repositories showcasing my work in Python, JavaScript, Flutter, and more. I have a particular interest in Python and Flutter. Feel free to explore my repositories, where you'll find everything from web development projects to open-source contributions. I'm always excited to collaborate and learn from fellow developers, so don't hesitate to reach out. Happy coding!💻</h3>
 
 
 - 🔭 I’m currently working on [RRLyrae](https://github.com/Seymagocmez/RRLyrae)

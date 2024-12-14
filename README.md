@@ -1,18 +1,12 @@
 <h1 align="center">Welcome to My GitHub 🎯</h1>
 
-<h3 align="left">
+<h3 align="center">
 
   I am actively developing my skills in software development and technology, with experience in building web and mobile applications. 
-On this page, you’ll find various projects I’ve worked on, spanning technologies like Python 🐍, Flutter 📱, Angular 🌐, C# 💻, and more. My interests include data science 📊, machine learning 🤖, and astronomy 🌌. 
+  
+On this page, you’ll find various projects I’ve worked on, spanning technologies like Python 🐍, Flutter 📱, Angular 🌐, C# 💻, and more. 
 
-Some of the projects here:
-
-- 🛠️ A forum website built with React  
-- 📡 A TCP/IP mobile application developed using Flutter  
-- 🔭 Light curve analysis tools in Python  
-- 📬 An email queue system with RabbitMQ in C#  
-- 💳 A credit card interface built in Flutter  
-- 🌟 Various JavaScript projects and Angular forms  
+My interests include data science 📊, machine learning 🤖, and astronomy 🌌. 
 
 Feel free to explore the repositories!</h3>
 

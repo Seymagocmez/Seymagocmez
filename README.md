@@ -13,8 +13,8 @@
 </p>
 
 <ul>
-  <li>🔭 Currently working on <a href="https://github.com/Seymagocmez/LightCurveAnalysis">LightCurveAnalysis</a></li>
-  <li>🌱 Currently learning <strong>Django</strong></li>
+  <li>🔭 Currently working on <a href="https://github.com/Seymagocmez/random-forest-star-classifier-kedro-pipeline.git">random-forest-star-classifier-kedro-pipeline</a></li>
+  <li>🌱 Currently researching about <strong>Optimization of GenAI models</strong></li>
 </ul>
 
 <h3 align="left">Connect with me</h3>

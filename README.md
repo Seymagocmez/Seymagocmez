@@ -12,11 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=seymag&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<ul>
-  <li>🔭 Currently working on <a href="https://github.com/Seymagocmez/random-forest-star-classifier-kedro-pipeline.git">random-forest-star-classifier-kedro-pipeline</a></li>
-  <li>🌱 Currently researching about <strong>Optimization of GenAI models</strong></li>
-</ul>
-
 <h3 align="left">Connect with me</h3>
 <p align="left" style="display:flex; gap:10px; align-items:center;">
   <a href="https://codepen.io/eyma-g-mez" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" /></a>
